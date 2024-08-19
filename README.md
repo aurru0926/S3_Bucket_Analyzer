@@ -1,0 +1,1 @@
+This tool provides a comprehensive analysis of S3 bucket security settings leveraging the AWS SDK, focusing on public access and policy configurations. It's designed to help identify potential security risks and misconfigurations in S3 bucket setups.
